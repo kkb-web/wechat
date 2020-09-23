@@ -1,0 +1,20 @@
+{
+  "code":0,
+  "data":{
+    "courseCode":19,
+    "channelCode":10,
+    "courseName":"vip课程名称",
+    "price":6999,
+    "payStatus":0,
+    "actualPrice": 5999,
+    "coupon": 200,
+    "icon": "15514250234017440_01_02",
+    "binding":1,
+    "classStatus":1,
+    "use": 1,
+    "endTime":1552203978,
+    "type": 0,
+    "orderNo": 1234567890,
+    "protocolStatus": 0
+  }
+}

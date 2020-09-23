@@ -1,0 +1,8 @@
+{
+  "status": "_status",
+  "version": "_version",
+  "gitBranch": "_gitBranch",
+  "lastCommitId": "_lastCommitId",
+  "buildDate": "_buildDate",
+  "currentDate": "_currentDate"
+}
